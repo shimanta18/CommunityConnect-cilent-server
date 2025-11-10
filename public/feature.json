@@ -1,0 +1,49 @@
+[
+    {
+    "id": 1,
+    "src": "https://placehold.co/600x400/f44336/ffffff?text=Community+Cleanup",
+    "alt": "Volunteers at a community cleanup event.",
+    "title": "Community Cleanup",
+    "description": "Our team working hard to clean up the local park."
+    },
+
+     {
+    "id": 2,
+    "src": "https://placehold.co/600x400/f44336/ffffff?text=Community+Cleanup",
+    "alt": "Planting new trees in the neighborhood.",
+    "title": "Tree Plantation Drive",
+    "description": "Bringing more greenery to our city, one tree at a time."
+    },
+
+     {
+    "id": 3,
+    "src": "https://placehold.co/600x400/f44336/ffffff?text=Community+Cleanup",
+    "alt": "Sorting donations for a local shelter.",
+    "title": "Donation Drive",
+    "description": "Collecting essential supplies for those in need."
+    },
+
+     {
+    "id": 4,
+    "src": "https://placehold.co/600x400/f44336/ffffff?text=Community+Cleanup",
+    "alt": "Volunteers packing food at a food bank.",
+    "title": "Food Bank Volunteering",
+    "description": "Preparing meals for the hungry."
+    },
+
+     {
+    "id": 5,
+    "src": "https://placehold.co/600x400/f44336/ffffff?text=Community+Cleanup",
+    "alt": "A mentor guiding a student.",
+    "title": "Youth Mentorship",
+    "description": "Empowering the next generation."
+    },
+
+     {
+    "id": 6,
+    "src": "https://placehold.co/600x400/f44336/ffffff?text=Community+Cleanup",
+    "alt":"Community members at a workshop.", 
+    "title": "Local Workshop",
+    "description": "Learning new skills together."
+    }
+]
