@@ -5,7 +5,7 @@ const Banner = () => {
  return(
     <div className="w-full py-16 md:py-24 bg-red-900">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-white text-center leading-tight">
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-semibold text-white text-center leading-tight">
           Connect, Create, and Contribute: Your Community Awaits!
         </h1>
         {/*buttons*/ }
