@@ -1,3 +1,4 @@
+import { Link } from "react-router"
 
 const Banner = () => {
  const imageUrl = "https://i.postimg.cc/vHmfkX7S/asset-cf5dead4.jpg"
@@ -10,7 +11,7 @@ const Banner = () => {
         </h1>
         {/*buttons*/ }
         <div className="flex flex-col sm:flex-row justify-center items-center gap-4 mt-10">
-            <button className="cursor-pointer w-full sm:w-auto px-8 py-3 rounded-full text-base font-semibold text-gray-900 bg-white shadow-md transition-transform duration-200 ease-in-out hover:">Login Now
+            <button  className="cursor-pointer w-full sm:w-auto px-8 py-3 rounded-full text-base font-semibold text-gray-900 bg-white shadow-md transition-transform duration-200 ease-in-out hover:"><Link to = "/login">Login Now</Link>
             </button>
             <button className="cursor-pointer w-full sm:w-auto px-8 py-3 rounded-full text-base font-semibold text-gray-900 text-white bg-transparent border-2 border-white shadow-md transition-all duration-200 ease-in-out  hover:bg-green-500">Join Now
             </button>
