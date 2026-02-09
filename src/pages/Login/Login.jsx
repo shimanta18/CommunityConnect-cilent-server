@@ -68,7 +68,12 @@ signInWithPopup(auth , githubProvider)
 
 
   return (
+
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-red-100 via-white to-red-200 px-4">
+      <div className="fixed top-4 right-4 flex flex-col items-center space-y-1 bg-white rounded-lg p-2 shadow-lg">
+      {user.photoURL && <img src={user.photoURL} alt="Profile" className="" />}
+      </div>
+      
       <div className="bg-white/70 backdrop-blur-md shadow-2xl rounded-2xl p-8 w-full max-w-md">
         <h1 className="text-4xl font-bold text-center text-red-900 mb-6">Login now</h1>
         <form onSubmit={handleLogin}>
@@ -112,11 +117,11 @@ signInWithPopup(auth , githubProvider)
                </>
 }
 {
-  user && <div>
-    <h3>{user?.displayName}</h3>
-    <h5>Email:{user.email}</h5>
-    <img src={user.photoURL}></img>
-  </div>
+ user && <div>
+   <h3>{user?.displayName}</h3>
+ 
+ <img src={user.photoURL}></img>
+ </div>
 }
             </div>
           </fieldset>
