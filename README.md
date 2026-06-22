@@ -14,12 +14,12 @@ An advanced, fully responsive event management and ticketing platform built usin
 
 ## ✨ Key Features
 
-* 🔐 **Secure Authentication:** Seamless registration and login processes powered by Firebase, complete with social login integrations (Google) and secure local storage mechanisms.
-* 📅 **Interactive Event Dashboard:** A personalized hub for users to view scheduled bookings, track ticket statuses, and manage event creation parameters.
-* 🔍 **Smart Filtering & Search:** Real-time search bars and categorical filters that help users instantly sort through dates, locations, or types of events.
-* 💳 **Dynamic Ticket Booking:** Intuitive user flows for selecting seat counts, confirming reservation details, and dynamically updating global database slots.
-* 🎨 **Tailwind CSS & Component Libraries:** Built on top of custom Tailwind utilities and sleek UI layers (such as DaisyUI) to ensure high visual consistency across components.
-* 📱 **Flawless Mobile Optimization:** Crafted to look incredible on desktop monitors, tablets, and smartphones alike.
+*  **Secure Authentication:** Seamless registration and login processes powered by Firebase, complete with social login integrations (Google) and secure local storage mechanisms.
+*  **Interactive Event Dashboard:** A personalized hub for users to view scheduled bookings, track ticket statuses, and manage event creation parameters.
+*  **Smart Filtering & Search:** Real-time search bars and categorical filters that help users instantly sort through dates, locations, or types of events.
+*  **Dynamic Ticket Booking:** Intuitive user flows for selecting seat counts, confirming reservation details, and dynamically updating global database slots.
+*  **Tailwind CSS & Component Libraries:** Built on top of custom Tailwind utilities and sleek UI layers (such as DaisyUI) to ensure high visual consistency across components.
+*  **Flawless Mobile Optimization:** Crafted to look incredible on desktop monitors, tablets, and smartphones alike.
 
 ---
 
